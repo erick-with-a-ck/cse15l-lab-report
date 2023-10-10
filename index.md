@@ -1,4 +1,4 @@
-![image](https://github.com/erick-with-a-ck/cse15l-lab-report/assets/147452788/d804edd0-949f-441c-bf16-27c2ba3b28ee)# Hello, world!
+# Hello, world!
 ## ¡Hola Mundo!
 **Testing Markdown rn!**
 *This is for CSE 15L*
